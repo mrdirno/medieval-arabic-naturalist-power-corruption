@@ -1,0 +1,72 @@
+{
+  "book_id": "medieval-arabic-naturalist-power-corruption",
+  "title": "The Solvent of Greasy Rain",
+  "tagline": "In a House of Wisdom poisoned by power, a naturalist dissecting a lion's death uncovers the anatomy of a court's corruption.",
+  "target_words": 72357,
+  "actual_words": 72357,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Corruption of Knowledge",
+    "Observation as Power",
+    "The Natural Order Versus Political Order",
+    "The Anatomy of Decay"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The First Murder Under Glass",
+      "words": 6577
+    },
+    {
+      "ch": 2,
+      "title": "A Ritual of Lion and Light",
+      "words": 6577
+    },
+    {
+      "ch": 3,
+      "title": "The Botanist's Carved Door",
+      "words": 6577
+    },
+    {
+      "ch": 4,
+      "title": "The Mountain's Cold Exhalation",
+      "words": 6577
+    },
+    {
+      "ch": 5,
+      "title": "A Cathedral Falls to Resonance",
+      "words": 6577
+    },
+    {
+      "ch": 6,
+      "title": "The Listening Wood of Silver Moss",
+      "words": 6577
+    },
+    {
+      "ch": 7,
+      "title": "A Shroud of Memory and Damp",
+      "words": 6577
+    },
+    {
+      "ch": 8,
+      "title": "Stepping Through the Honeyed Shadow",
+      "words": 6577
+    },
+    {
+      "ch": 9,
+      "title": "The Governor in the Luminous Void",
+      "words": 6577
+    },
+    {
+      "ch": 10,
+      "title": "The Taste of a Decision",
+      "words": 6577
+    },
+    {
+      "ch": 11,
+      "title": "A Solvent of Greasy Rain",
+      "words": 6577
+    }
+  ]
+}
